@@ -2,7 +2,7 @@
 # features/my_first.feature
 
 @formulario @home
-Funcionalidade: Verificar busca à agências do bairro de preferência
+Funcionalidade: Cria um novo registro na agenda e verifica a a criação
 Contexto:
   No aplicativo Agenda, acessar e automatizar a criação e a exclusão de um registro com BDD seguindo o seguinte cenário.
   
